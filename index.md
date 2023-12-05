@@ -15,4 +15,4 @@
 
 ### Hunting VR
 
-<a href="https://www.meta.com/experiences/24302506529397673"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Download on the Meta Quest" style="border-radius: 13px; width: 300px; height: 130px;"></a>
+<a href="https://www.meta.com/experiences/24302506529397673"><img src="https://mikalaikazei.github.io/meta.png" alt="Download on the Meta Quest" style="border-radius: 13px; width: 300px; height: 130px;"></a>

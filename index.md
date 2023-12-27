@@ -3,7 +3,7 @@
 
 ### Hunting Simulator 
 <tr> 
-<td>  <a href="https://www.meta.com/experiences/24302506529397673"><img src="https://mikalaikazei.github.io/meta.png" alt="Download on the Meta Quest" style="border-radius: 13px; width: 300px; height: 130px;"></a>
+<td>  <a href="https://www.meta.com/experiences/24302506529397673"><img src="https://mikalaikazei.github.io/meta.png" alt="Download on the Meta Quest" style="border-radius: 13px; width: 300px; height: 150px;"></a>
 </td> 
 </tr>
 

@@ -1,4 +1,4 @@
-![image](https://github.com/MikalaiKazei/mikalaikazei.github.io/assets/99050531/a73c0f4f-ead2-4c66-b553-d103fdc728c8)# Mikalai Kazei
+# Mikalai Kazei
 ## VR Games Developed and published
 
 ### Hunting Simulator 

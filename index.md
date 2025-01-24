@@ -7,11 +7,11 @@
 </td> 
 </tr>
 
-//### Towers kingdoms
-//<tr> 
-//<td>  <a href="https://www.meta.com/experiences/25604604785853987"><img src="https://mikalaikazei.github.io/meta.png" alt="Download on the Meta Quest" //style="border-radius: 13px; width: 450px; height: 125px;"></a>
-//</td> 
-//</tr>
+### Towers kingdoms
+<tr> 
+<td>  <a href="https://www.meta.com/experiences/25604604785853987"><img src="https://mikalaikazei.github.io/meta.png" alt="Download on the Meta Quest" style="border-radius: 13px; width: 450px; height: 125px;"></a>
+</td> 
+</tr>
 
 ### Jurassic Dinosaur Hunting survival game
 <tr> 

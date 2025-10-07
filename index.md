@@ -42,6 +42,4 @@
 </td>
 </tr>
 
-### SQUAD clash - army games
-<a href="https://play.google.com/store/apps/details?id=com.Woodcock.pmSQUAD"><img src="https://mikalaikazei.github.io/google.png" alt="Download on the Google Play" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 

@@ -1,7 +1,7 @@
 # Mikalai Kazei
 ## VR Games Developed and published
 
-### Heroes, towers and monsters- RTS offline
+### Empire of Towers: Civilization Conquer
 <tr> 
 <td>  <a href="https://www.meta.com/experiences/24977573438522387"><img src="https://mikalaikazei.github.io/meta.png" alt="Download on the Meta Quest" style="border-radius: 13px; width: 450px; height: 125px;"></a>
 </td> 

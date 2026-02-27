@@ -41,10 +41,10 @@
 ## Mobile Games Developed and published
 ### Hunting Simulator
 <tr> <td>
-<a href="https://apps.apple.com/us/app/hunting-simulator-game/id1501749754"><img src="https://mikalaikazei.github.io/aapl.png" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 80px;"></a> 
+<a href="https://apps.apple.com/us/app/hunting-simulator-game/id1501749754"><img src="https://mikalaikazei.github.io/aapl.png" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 70px;"></a> 
 </td> 
 <td>
-<a href="https://play.google.com/store/apps/details?id=com.woodcock.huntingsimulator"><img src="https://mikalaikazei.github.io/google.png" alt="Download on the Google Play" style="border-radius: 13px; width: 250px; height: 80px;"></a>
+<a href="https://play.google.com/store/apps/details?id=com.woodcock.huntingsimulator"><img src="https://mikalaikazei.github.io/google.png" alt="Download on the Google Play" style="border-radius: 13px; width: 250px; height: 70px;"></a>
 </td>
 </tr>
 

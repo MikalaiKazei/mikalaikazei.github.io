@@ -48,7 +48,7 @@
 </td>
 </tr>
 
-### Contact & Support
+## Contact & Support
 <td>
   woodcock.entertainment@gmail.com
 </td>
